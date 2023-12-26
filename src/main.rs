@@ -15,10 +15,6 @@ impl Task{
             println!("tarea=> {}",item.task)
         }
     }
-
-    fn find(&self){
-        println!("la tarea es {}",self.task)
-    }
 }
 
 
